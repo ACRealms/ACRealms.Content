@@ -1,0 +1,10 @@
+{
+    "Classic" : 1,
+    "Classic PvP" : 2,
+    "Modern Realm" : 3,
+    "Modern Realm (PvP)" : 4,
+    "pvp-ruleset" : 100,
+    "random-test" : 101,
+    "creature-attribute-randomizer" : 102,
+    "creature-hp-boost" : 103
+}

@@ -41,7 +41,7 @@ INSERT INTO `weenie_properties_float` (`object_Id`, `type`, `value`)
 VALUES (4200001, 167,      15) /* CooldownDuration */;
 
 INSERT INTO `weenie_properties_string` (`object_Id`, `type`, `value`)
-VALUES (4200001,   1, 'Realm Portal Gem Test - Halls of Metos PvP') /* Name */
+VALUES (4200001,   1, 'Halls of Metos') /* Name */
      , (4200001,  15, 'This portal summoning gem works best if used outside in a relatively flat area.') /* ShortDesc */
      , (4200001,  16, 'This portal summoning gem works best if used outside in a relatively flat area.') /* LongDesc */;
 

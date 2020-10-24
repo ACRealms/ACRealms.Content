@@ -61,5 +61,9 @@ VALUES (0x701AC00E,   278, 0x01AC0143, 50, -24.75, 6, -4.37114E-08, 0, 0, -1, Fa
 /* @teleloc 0x01AC0143 [50.000000 -24.750000 6.000000] -0.000000 0.000000 0.000000 -1.000000 */
 
 INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
-VALUES (0x701AC00F, 4200029, 0x01AC0116, 30.676449, -11.147503, 0.0055961013, 0.38240668, -0.017940624, -0.01748304, -0.9236545, False, '2020-10-23 11:10:35'); /* Spellcasting Modifications */
-/* @teleloc 0x01AC0116 [30.676449 -11.147503 0.005596] 0.382407 -0.017941 -0.017483 -0.923654 */
+VALUES (0x701AC00F, 4200029, 0x01AC0116, 30.6764, -11.1475, 0.0055961, 0.382407, -0.0179406, -0.017483, -0.923654, False, '2020-10-23 11:10:35'); /* Spellcasting Modifications */
+/* @teleloc 0x01AC0116 [30.676399 -11.147500 0.005596] 0.382407 -0.017941 -0.017483 -0.923654 */
+
+INSERT INTO `landblock_instance` (`guid`, `weenie_Class_Id`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`, `is_Link_Child`, `last_Modified`)
+VALUES (0x701AC010, 4200032, 0x01AC0116, 33.093952, -8.082354, 0.004999995, 0.37033412, 0, 0, -0.92889863, False, '2020-10-23 18:39:20'); /* PvP Portal Gems */
+/* @teleloc 0x01AC0116 [33.093952 -8.082354 0.005000] 0.370334 0.000000 0.000000 -0.928899 */

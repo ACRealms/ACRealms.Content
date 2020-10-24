@@ -12,9 +12,9 @@ VALUES (4200005,   1,        128) /* ItemType - Misc */
      , (4200005,  12,          1) /* StackSize */
      , (4200005,  13,         10) /* StackUnitEncumbrance */
      , (4200005,  14,         10) /* StackUnitMass */
-     , (4200005,  15,        100) /* StackUnitValue */
+     , (4200005,  15,        1) /* StackUnitValue */
      , (4200005,  16,     524296) /* ItemUseable - SourceContainedTargetContained */
-     , (4200005,  19,        100) /* Value */
+     , (4200005,  19,         1) /* Value */
      , (4200005,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (4200005,  94,       2048) /* TargetType - Gem */
      , (4200005, 150,        103) /* HookPlacement - Hook */
